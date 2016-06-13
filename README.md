@@ -1,4 +1,4 @@
-"# IRE" 
+IRE 2016 scraper 
 
 This is a Python script to scrape data for the 2016 Investigative Reporters and Editors conference in New Orleans June 15-19.
 

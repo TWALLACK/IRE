@@ -12,7 +12,7 @@ It creates three pipe delimted files:
     IRE2016_speakers_nodupes.txt
 
 
-The data I gathered is in a Google Sheet
+The data I gathered on June 12, 2016 is also in an attached spreadsheet and Google Sheet
 https://docs.google.com/spreadsheets/d/1-nq2iR2qp8Ps8FIQ8zCNt2zg2EBeBmsFm5qrj5y0sH0/edit?usp=sharing
 
 
